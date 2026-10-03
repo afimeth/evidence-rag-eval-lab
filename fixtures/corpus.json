@@ -1,0 +1,18 @@
+[
+  {
+    "id": "dispatch",
+    "text": "Dispatch uncertainty requires hold before any retry."
+  },
+  {
+    "id": "citations",
+    "text": "Citations bind exact source text using a SHA256 digest."
+  },
+  {
+    "id": "budgets",
+    "text": "Tool budgets reserve each invocation before adapter execution."
+  },
+  {
+    "id": "identity",
+    "text": "A fixture grant does not authenticate a human principal."
+  }
+]

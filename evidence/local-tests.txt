@@ -1,0 +1,16 @@
+test_abstain (test_app.Tests.test_abstain) ... ok
+test_citation_valid (test_app.Tests.test_citation_valid) ... ok
+test_duplicate_id (test_app.Tests.test_duplicate_id) ... ok
+test_empty_eval (test_app.Tests.test_empty_eval) ... ok
+test_eval_catches_missed_relevance (test_app.Tests.test_eval_catches_missed_relevance) ... ok
+test_fabricated_quote (test_app.Tests.test_fabricated_quote) ... ok
+test_false_abstention (test_app.Tests.test_false_abstention) ... ok
+test_modified_source (test_app.Tests.test_modified_source) ... ok
+test_relevant (test_app.Tests.test_relevant) ... ok
+test_ties_deterministic (test_app.Tests.test_ties_deterministic) ... ok
+test_unknown_source (test_app.Tests.test_unknown_source) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.001s
+
+OK

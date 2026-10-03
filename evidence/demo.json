@@ -1,0 +1,60 @@
+{
+  "cases": [
+    {
+      "id": "dispatch",
+      "retrieved": [
+        "dispatch"
+      ],
+      "recall_at_2": 1.0,
+      "citation_valid": true,
+      "passed": true
+    },
+    {
+      "id": "cite",
+      "retrieved": [
+        "citations"
+      ],
+      "recall_at_2": 1.0,
+      "citation_valid": true,
+      "passed": true
+    },
+    {
+      "id": "budget",
+      "retrieved": [
+        "budgets"
+      ],
+      "recall_at_2": 1.0,
+      "citation_valid": true,
+      "passed": true
+    },
+    {
+      "id": "identity",
+      "retrieved": [
+        "identity"
+      ],
+      "recall_at_2": 1.0,
+      "citation_valid": true,
+      "passed": true
+    },
+    {
+      "id": "unknown",
+      "retrieved": [],
+      "recall_at_2": null,
+      "citation_valid": true,
+      "passed": true
+    },
+    {
+      "id": "mixed",
+      "retrieved": [
+        "citations",
+        "dispatch"
+      ],
+      "recall_at_2": 1.0,
+      "citation_valid": true,
+      "passed": true
+    }
+  ],
+  "passed": 6,
+  "total": 6,
+  "world_truth_verified": false
+}

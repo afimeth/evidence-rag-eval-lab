@@ -1,0 +1,43 @@
+[
+  {
+    "id": "dispatch",
+    "query": "dispatch uncertainty",
+    "relevant": [
+      "dispatch"
+    ]
+  },
+  {
+    "id": "cite",
+    "query": "citations digest",
+    "relevant": [
+      "citations"
+    ]
+  },
+  {
+    "id": "budget",
+    "query": "tool budgets",
+    "relevant": [
+      "budgets"
+    ]
+  },
+  {
+    "id": "identity",
+    "query": "authenticate principal",
+    "relevant": [
+      "identity"
+    ]
+  },
+  {
+    "id": "unknown",
+    "query": "quasar bananas",
+    "relevant": []
+  },
+  {
+    "id": "mixed",
+    "query": "dispatch citations",
+    "relevant": [
+      "dispatch",
+      "citations"
+    ]
+  }
+]
